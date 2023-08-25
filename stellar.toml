@@ -1,0 +1,26 @@
+# Version information for the TOML file
+VERSION="2.0.0"
+
+# General information about the organization or individual
+[DOCUMENTATION]
+ORG_NAME="romeoscript"
+ORG_DBA="D_script"
+ORG_URL="https://your-organization-domain.com"
+ORG_LOGO="https://your-organization-domain.com/logo.png"
+ORG_DESCRIPTION="Romeoscript Innovations is a leading tech firm specializing in blockchain solutions and Stellar-based applications, dedicated to pushing the boundaries of fintech and making decentralized finance accessible to all."
+ORG_PHYSICAL_ADDRESS="festac town lagos "
+ORG_PHYSICAL_ADDRESS_ATTESTATION="URL to a signed document proving the address provided"
+ORG_PHONE="09159489960"
+ORG_GITHUB="https://github.com/romeoscript"
+ORG_OFFICIAL_EMAIL="romeobourne211@gmail.com"
+
+# Information about the asset
+[[CURRENCIES]]
+code="Romeoscript"
+issuer="GAYWEGNGQBOJL4VE3GWRIXTZJN5OSCN535SIBKR2QB3TDCSW7SA7XH5L"
+display_decimals=2
+name="Romeoscript"
+desc=" is a digital token issued on the Stellar network using a custom blockchain implementation. This token enables secure and efficient transactions within a decentralized ecosystem. The blockchain class/interface supports the creation of blocks, transactions, and implements a proof-of-work consensus algorithm for validation. The token holds value within the specified network and can be transferred between users. Its issuance and transaction processes are facilitated through the Stellar network, ensuring reliability and transparency."
+conditions="Issuance and transactions require trust relationships with issuing and receiving accounts on the Stellar network."
+fixed_number=1000000
+status="live"
