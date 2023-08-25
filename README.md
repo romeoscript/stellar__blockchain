@@ -23,11 +23,12 @@ Before you begin, ensure you have met the following requirements:
 
 ```bash
 git clone [https://github.com/romeoscript/stellar__blockchain.git]
-
-
+```
 
 ``` bash
 npm install
+```
 
 ```bash
 node dev/test.js
+```
